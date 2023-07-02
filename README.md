@@ -6,9 +6,9 @@ I created a MadLibs website story using Javascript as the back-end language.
 
 I created this program to better understand Javascript. It has always been interesting to me how people create so many things on webpages, and I wanted to know a little about how they did those things. I wanted to expand my knowledge about the world of programming and of web development. Even though I don't plan on going into that field of work, it is good to know a little of what web developers do.
 
-Here is a video demo of my project.
+Here is a video demo of my project:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dHV7-RlUAVE)
 
 # Development Environment
 
